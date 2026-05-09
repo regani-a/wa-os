@@ -1,0 +1,179 @@
+No,SMT,Hari,Waktu,Ruang,Mata Kuliah,SKS (Σ),Dosen
+1,IF-IA,SENIN,08:00-11:20,Lab. 1,Dasar Pemrograman,4,Dosen 1
+2,IF-IA,SENIN,13:00-14:40,R. 8,Bahasa Indonesia,2,Dosen 2
+3,IF-IA,SENIN,14:40-16:20,R. 8,Pendidikan Kewarganegaraan,2,Dosen 3
+4,IF-IA,SELASA,08:00-11:20,Lab. 3,Basis Data,4,Dosen 4
+5,IF-IA,SELASA,13:00-15:30,R. 8,Kalkulus,3,Dosen 5
+6,IF-IA,KAMIS,08:00-09:40,R. 8,Etika Profesi,2,Dosen 6
+7,IF-IA,KAMIS,09:40-12:10,R. 8,Pengantar Teknologi Informasi,3,Dosen 7
+8,IF-IB,SENIN,10:30-12:10,R. 9,Bahasa Indonesia,2,Dosen 2
+9,IF-IB,SENIN,13:00-16:20,Lab. 1,Dasar Pemrograman,4,Dosen 1
+10,IF-IB,SELASA,08:00-09:40,R. 9,Etika Profesi,2,Dosen 6
+11,IF-IB,SELASA,09:40-12:10,R. 9,Kalkulus,3,Dosen 5
+12,IF-IB,SELASA,13:00-16:20,Lab. 3,Basis Data,4,Dosen 4
+13,IF-IB,KAMIS,13:00-15:30,R. 9,Pengantar Teknologi Informasi,3,Dosen 7
+14,IF-IB,KAMIS,15:30-17:10,R. 9,Pendidikan Kewarganegaraan,2,Dosen 3
+15,IF-IC,SELASA,08:00-11:20,Lab. 1,Dasar Pemrograman,4,Dosen 1
+16,IF-IC,SELASA,13:00-15:30,R. 10,Pengantar Teknologi Informasi,3,Dosen 7
+17,IF-IC,RABU,13:00-15:30,R. 10,Kalkulus,3,Dosen 5
+18,IF-IC,RABU,15:30-17:10,R. 10,Etika Profesi,2,Dosen 8
+19,IF-IC,JUMAT,08:00-11:20,Lab. 3,Basis Data,4,Dosen 4
+20,IF-IC,JUMAT,13:00-14:40,R. 10,Bahasa Indonesia,2,Dosen 9
+21,IF-IC,JUMAT,14:40-16:20,R. 10,Pendidikan Kewarganegaraan,2,Dosen 3
+22,IF-ID,SELASA,08:00-09:40,R. 1,Etika Profesi,2,Dosen 10
+23,IF-ID,SELASA,09:40-12:10,R. 1,Pengantar Teknologi Informasi,3,Dosen 7
+24,IF-ID,SELASA,13:00-16:20,Lab. 1,Dasar Pemrograman,4,Dosen 1
+25,IF-ID,RABU,08:00-10:30,R. 1,Kalkulus,3,Dosen 5
+26,IF-ID,RABU,13:00-16:20,Lab. 1,Basis Data,4,Dosen 4
+27,IF-ID,JUMAT,13:00-14:40,R. 1,Pendidikan Kewarganegaraan,2,Dosen 3
+28,IF-ID,JUMAT,14:40-16:20,R. 6A,Bahasa Indonesia,2,Dosen 9
+29,IF-IIIA,SELASA,08:00-10:30,Lab. 4,Pemrograman Berorientasi Objek,3,Dosen 11
+30,IF-IIIA,SELASA,10:30-13:00,R. 2,Rekayasa Perangkat Lunak,3,Dosen 10
+31,IF-IIIA,SELASA,14:00-16:30,R. 2,Sistem Operasi,3,Dosen 12
+32,IF-IIIA,KAMIS,08:00-10:30,R. 2,Statistika dan Probabilitas,3,Dosen 13
+33,IF-IIIA,KAMIS,10:30-13:00,R. 2,Strategi Algoritma,3,Dosen 14
+34,IF-IIIA,JUMAT,08:00-10:30,R. 2,Matematika Diskrit,3,Dosen 15
+35,IF-IIIA,JUMAT,13:00-15:30,R. 2,Aljabar Vektor & Matriks,3,Dosen 16
+36,IF-IIIA,JUMAT,15:30-18:00,R. 2,Arsitektur & Organisasi Komputer,3,Dosen 17
+37,IF-IIIB,SELASA,08:00-10:30,R. 2,Sistem Operasi,3,Dosen 12
+38,IF-IIIB,SELASA,10:30-13:00,Lab. 4,Pemrograman Berorientasi Objek,3,Dosen 11
+39,IF-IIIB,SELASA,14:00-16:30,R. 1,Arsitektur & Organisasi Komputer,3,Dosen 17
+40,IF-IIIB,KAMIS,08:00-10:30,R. 1,Rekayasa Perangkat Lunak,3,Dosen 10
+41,IF-IIIB,KAMIS,10:30-13:00,R. 1,Statistika dan Probabilitas,3,Dosen 13
+42,IF-IIIB,KAMIS,14:00-16:30,R. 1,Strategi Algoritma,3,Dosen 14
+43,IF-IIIB,JUMAT,08:00-10:30,R. 1,Aljabar Vektor & Matriks,3,Dosen 16
+44,IF-IIIB,JUMAT,14:40-17:10,R. 1,Matematika Diskrit,3,Dosen 15
+45,IF-IIIC,SABTU,08:00-10:30,R. 3,Matematika Diskrit,3,Dosen 15
+46,IF-IIIC,SABTU,10:30-13:00,R. 3,Aljabar Vektor & Matriks,3,Dosen 16
+47,IF-IIIC,RABU,08:00-10:30,Lab. 4,Pemrograman Berorientasi Objek,3,Dosen 11
+48,IF-IIIC,RABU,10:30-13:00,R. 3,Strategi Algoritma,3,Dosen 14
+49,IF-IIIC,RABU,14:00-16:30,R. 3,Statistika dan Probabilitas,3,Dosen 13
+50,IF-IIIC,KAMIS,08:00-10:30,R. 3,Arsitektur & Organisasi Komputer,3,Dosen 17
+51,IF-IIIC,KAMIS,10:30-13:00,R. 3,Rekayasa Perangkat Lunak,3,Dosen 10
+52,IF-IIIC,KAMIS,14:00-16:30,R. 3,Sistem Operasi,3,Dosen 12
+53,IF-IIID,SABTU,08:00-10:30,R. 10,Aljabar Vektor & Matriks,3,Dosen 16
+54,IF-IIID,SABTU,10:30-13:00,R. 10,Matematika Diskrit,3,Dosen 15
+55,IF-IIID,RABU,08:00-10:30,R. 10,Rekayasa Perangkat Lunak,3,Dosen 10
+56,IF-IIID,RABU,10:30-13:00,R. 10,Statistika dan Probabilitas,3,Dosen 13
+57,IF-IIID,RABU,14:00-16:30,R. 8,Strategi Algoritma,3,Dosen 14
+58,IF-IIID,KAMIS,08:00-10:30,Lab. 4,Pemrograman Berorientasi Objek,3,Dosen 11
+59,IF-IIID,KAMIS,10:30-13:00,R. 10,Sistem Operasi,3,Dosen 12
+60,IF-IIID,KAMIS,14:00-16:30,R. 10,Arsitektur & Organisasi Komputer,3,Dosen 17
+61,IF-VA,SENIN,08:00-10:30,R. 8,Pemrograman Berbasis Web,3,Dosen 18
+62,IF-VA,SABTU,10:30-12:10,R. 1,Digital Startup,2,Dosen 19
+63,IF-VA,RABU,08:00-10:30,Lab. 1,Internet of Things,3,Dosen 20
+64,IF-VA,RABU,10:30-13:00,R. 8,Desain UI/UX,3,Dosen 8
+65,IF-VA,KAMIS,08:00-10:30,R. 9,Manajemen Proyek Perangkat Lunak,3,Dosen 21
+66,IF-VA,KAMIS,10:30-13:00,R. 9,Interpersonal Skill,3,Dosen 6
+67,IF-VA,KAMIS,14:00-16:30,R. 8,Kecerdasan Buatan,3,Dosen 22
+68,IF-VB,SENIN,10:30-13:00,R. 4B,Pemrograman Berbasis Web,3,Dosen 18
+69,IF-VB,RABU,10:30-13:00,Lab. 1,Internet of Things,3,Dosen 20
+70,IF-VB,RABU,14:00-16:30,R. 9,Kecerdasan Buatan,3,Dosen 22
+71,IF-VB,KAMIS,10:30-13:00,R. 4B,Manajemen Proyek Perangkat Lunak,3,Dosen 21
+72,IF-VB,KAMIS,14:00-16:30,R. 2,Interpersonal Skill,3,Dosen 6
+73,IF-VB,JUMAT,09:40-11:20,R. 10,Digital Startup,2,Dosen 13
+74,IF-VB,JUMAT,13:00-15:30,Lab. 3,Desain UI/UX,3,Dosen 8
+75,IF-VC,SELASA,08:00-10:30,R. 8,Desain UI/UX,3,Dosen 8
+76,IF-VC,SELASA,10:30-13:00,R. 8,Interpersonal Skill,3,Dosen 6
+77,IF-VC,SELASA,14:00-16:30,R. 9,Manajemen Proyek Perangkat Lunak,3,Dosen 21
+78,IF-VC,KAMIS,08:00-10:30,Lab. 1,Internet of Things,3,Dosen 20
+79,IF-VC,KAMIS,10:30-13:00,Lab. 3,Kecerdasan Buatan,3,Dosen 22
+80,IF-VC,JUMAT,08:00-10:30,R. 8,Pemrograman Berbasis Web,3,Dosen 18
+81,IF-VC,JUMAT,13:00-14:40,R. 8,Digital Startup,2,Dosen 13
+82,IF-VD,SENIN,08:00-10:30,R. 10,Kecerdasan Buatan,3,Dosen 22
+83,IF-VD,SENIN,14:00-16:30,R. 3,Desain UI/UX,3,Dosen 8
+84,IF-VD,SELASA,10:30-13:00,R. 10,Manajemen Proyek Perangkat Lunak,3,Dosen 21
+85,IF-VD,SELASA,14:00-16:30,R. 3,Interpersonal Skill,3,Dosen 6
+86,IF-VD,KAMIS,10:30-13:00,Lab. 1,Internet of Things,3,Dosen 20
+87,IF-VD,JUMAT,08:00-09:40,R. 10,Digital Startup,2,Dosen 13
+88,IF-VD,JUMAT,13:00-15:30,Lab. 1,Pemrograman Berbasis Web,3,Dosen 18
+89,IF-VIIA,RABU,08:00-09:40,R. 2,Publikasi Ilmiah,2,Dosen 21
+90,IF-VIIA,RABU,09:40-12:10,R. 6A,Proposal dan Seminar Skripsi,3,Dosen 23
+91,IF-VIIA,RABU,13:00-15:30,R. 2,Kerja Praktek/Magang Industri/KKN,3,Dosen 23
+92,IF-VIIA,JUMAT,08:00-09:40,R. 3,Etika Profesi,2,Dosen 24
+93,IF-VIIA,JUMAT,13:00-15:30,Lab. 4,Bahasa Inggris,3,Dosen 25
+94,IF-VIIB,SABTU,08:00-10:30,Lab. 4,Bahasa Inggris,3,Dosen 25
+95,IF-VIIB,SABTU,10:30-12:10,R. 2,Etika Profesi,2,Dosen 24
+96,IF-VIIB,RABU,08:00-10:30,R. 3,Proposal dan Seminar Skripsi,3,Dosen 26
+97,IF-VIIB,RABU,10:30-13:00,R. 9,Kerja Praktek/Magang Industri/KKN,3,Dosen 26
+98,IF-VIIB,RABU,14:00-15:40,R. 1,Publikasi Ilmiah,2,Dosen 21
+99,IF-VIIC,SENIN,08:00-10:30,R. 5A,Kerja Praktek/Magang Industri/KKN,3,Dosen 27
+100,IF-VIIC,SENIN,10:30-13:00,R. 1,Proposal dan Seminar Skripsi,3,Dosen 27
+101,IF-VIIC,JUMAT,08:00-10:30,Lab. 4,Bahasa Inggris,3,Dosen 25
+102,IF-VIIC,JUMAT,13:00-14:40,R. 5A,Etika Profesi,2,Dosen 24
+103,IF-VIIC,JUMAT,14:40-16:20,R. 5A,Publikasi Ilmiah,2,Dosen 28
+104,IF-VIID,SABTU,08:00-09:40,R. 2,Etika Profesi,2,Dosen 3
+105,IF-VIID,SABTU,10:30-13:00,Lab. 4,Bahasa Inggris,3,Dosen 25
+106,IF-VIID,RABU,08:00-10:30,R. 9,Proposal dan Seminar Skripsi,3,Dosen 29
+107,IF-VIID,RABU,13:00-15:30,R. 4A,Kerja Praktek/Magang Industri/KKN,3,Dosen 29
+108,IF-VIID,RABU,15:30-17:10,R. 2,Publikasi Ilmiah,2,Dosen 1
+109,IF-VIIE,RABU,09:40-11:20,R. 2,Etika Profesi,2,Dosen 30
+110,IF-VIIE,RABU,13:00-15:30,R. 4B,Proposal dan Seminar Skripsi,3,Dosen 31
+111,IF-VIIE,KAMIS,08:00-09:40,R. 4B,Publikasi Ilmiah,2,Dosen 19
+112,IF-VIIE,KAMIS,10:30-13:00,Lab. 4,Bahasa Inggris,3,Dosen 32
+113,IF-VIIE,KAMIS,13:00-15:30,R. 4B,Kerja Praktek/Magang Industri/KKN,3,Dosen 31
+114,IF-VIIF,SENIN,08:00-10:30,R. 5B,Proposal dan Seminar Skripsi,3,Dosen 33
+115,IF-VIIF,SENIN,10:30-13:00,R. 10,Kerja Praktek/Magang Industri/KKN,3,Dosen 33
+116,IF-VIIG,SENIN,08:00-10:30,R. 1,Proposal dan Seminar Skripsi,3,Dosen 34
+117,IF-VIIG,SENIN,10:30-13:00,R. 4A,Kerja Praktek/Magang Industri/KKN,3,Dosen 34
+118,IF-VIII-ISSI A,JUMAT,08:00-11:20,Lab. 1,Visualisasi Data dan Informasi (ISSI A),4,Dosen 11
+119,IF-VIII-ISSI B,SABTU,08:00-11:20,Lab. 1,Visualisasi Data dan Informasi (ISSI B),4,Dosen 18
+120,IF-VIII-ISSI C,SENIN,13:00-16:20,Lab. 4,Testing dan Implementasi Sistem (ISSI C),4,Dosen 14
+121,IF-VIII-KJK A,SENIN,08:00-11:20,Lab. 4,Ethical Hacking (KJK A),4,Dosen 12
+122,SI-IA,SELASA,08:00-10:30,R. 4A,Dasar Sistem Informasi,3,Dosen 30
+123,SI-IA,SELASA,10:30-13:00,R. 4A,Matematika Sistem Informasi,3,Dosen 22
+124,SI-IA,RABU,08:00-10:30,R. 4A,Pengantar Teknologi Informasi,3,Dosen 35
+125,SI-IA,RABU,10:30-12:10,R. 4A,Pengantar Manajemen dan Organisasi,2,Dosen 36
+126,SI-IA,KAMIS,13:00-15:30,Lab. 3,Algoritma dan Dasar Pemrograman,3,Dosen 28
+127,SI-IA,JUMAT,08:00-10:30,R. 4A,Pendidikan Agama,3,Dosen 37
+128,SI-IA,JUMAT,13:00-15:30,R. 4A,Pengetahuan Bisnis,3,Dosen 38
+129,SI-IB,SELASA,08:00-10:30,R. 4B,Pengantar Teknologi Informasi,3,Dosen 35
+130,SI-IB,SELASA,10:30-13:00,R. 4B,Dasar Sistem Informasi,3,Dosen 30
+131,SI-IB,RABU,08:00-10:30,R. 5A,Pengantar Manajemen dan Organisasi,2,Dosen 36
+132,SI-IB,RABU,10:30-13:00,R. 5A,Matematika Sistem Informasi,3,Dosen 22
+133,SI-IB,KAMIS,08:00-10:30,R. 4A,Pendidikan Agama,3,Dosen 37
+134,SI-IB,KAMIS,10:30-13:00,R. 4A,Pengetahuan Bisnis,3,Dosen 38
+135,SI-IB,JUMAT,13:00-15:30,Lab. 4,Algoritma dan Dasar Pemrograman,3,Dosen 28
+136,SI-IC,SABTU,08:00-10:30,R. 5A,Dasar Sistem Informasi,3,Dosen 30
+137,SI-IC,SABTU,10:30-13:00,R. 5A,Pengantar Teknologi Informasi,3,Dosen 35
+138,SI-IIIA,SENIN,08:00-10:30,R. 4A,Akuntansi,3,Dosen 39
+139,SI-IIIA,SENIN,10:30-13:00,Lab. 3,Struktur Data,3,Dosen 21
+140,SI-IIIA,SENIN,13:00-15:30,R. 4A,Pengantar Bisnis,3,Dosen 39
+141,SI-IIIA,KAMIS,08:00-09:40,R. 5A,Interaksi Manusia dan Komputer,2,Dosen 40
+142,SI-IIIA,KAMIS,09:40-12:10,R. 5A,Organisasi dan Arsitektur Komputer,3,Dosen 12
+143,SI-IIIA,JUMAT,08:00-10:30,Lab. 3,Sistem Operasi,3,Dosen 41
+144,SI-IIIB,SENIN,08:00-10:30,Lab. 3,Struktur Data,3,Dosen 21
+145,SI-IIIB,SENIN,10:30-13:00,R. 5B,Pengantar Bisnis,3,Dosen 39
+146,SI-IIIB,SENIN,14:00-16:30,R. 5A,Akuntansi,3,Dosen 39
+147,SI-IIIB,RABU,08:00-10:30,Lab. 3,Sistem Operasi,3,Dosen 41
+148,SI-IIIB,KAMIS,10:30-12:10,R. 4B,Interaksi Manusia dan Komputer,2,Dosen 7
+149,SI-IIIB,KAMIS,13:00-15:30,R. 5A,Organisasi dan Arsitektur Komputer,3,Dosen 12
+150,SI-IIIC,SABTU,08:00-10:30,Lab. 3,Struktur Data,3,Dosen 21
+151,SI-IIIC,SABTU,10:30-13:00,R. 4A,Akuntansi,3,Dosen 39
+152,SI-IIIC,RABU,08:00-10:30,R. 5B,Pengantar Bisnis,3,Dosen 39
+153,SI-IIIC,RABU,13:00-15:30,R. 5A,Organisasi dan Arsitektur Komputer,3,Dosen 12
+154,SI-IIIC,KAMIS,08:00-09:40,Lab. 3,Sistem Operasi,3,Dosen 41
+155,SI-IIIC,KAMIS,10:30-12:10,R. 5A,Interaksi Manusia dan Komputer,2,Dosen 7
+156,SI-VA,SENIN,08:00-10:30,R. 9,Data Mining,3,Dosen 28
+157,SI-VA,SENIN,10:30-13:00,R. 9,Sistem Informasi Geografis,3,Dosen 20
+158,SI-VA,SELASA,08:00-10:30,Lab. 2,Jaringan Komputer,3,Dosen 41
+159,SI-VA,SELASA,10:30-13:00,R. 9,Digital Forensik,3,Dosen 19
+160,SI-VA,RABU,13:00-15:30,R. 9,Pemrograman Aplikasi Bergerak,3,Dosen 18
+161,SI-VA,KAMIS,14:00-16:30,R. 5A,Data Warehouse,3,Dosen 19
+162,SI-VB,SENIN,08:00-10:30,R. 4B,Sistem Informasi Geografis,3,Dosen 20
+163,SI-VB,SENIN,10:30-13:00,R. 4B,Data Mining,3,Dosen 28
+164,SI-VB,SELASA,08:00-10:30,R. 9,Digital Forensik,3,Dosen 19
+165,SI-VB,SELASA,10:30-13:00,Lab. 2,Jaringan Komputer,3,Dosen 41
+166,SI-VB,RABU,13:00-15:30,Lab. 3,Pemrograman Aplikasi Bergerak,3,Dosen 18
+167,SI-VB,KAMIS,14:00-16:30,R. 4A,Data Warehouse,3,Dosen 19
+168,SI-VIIA,SENIN,08:00-09:40,R. 5A,Publikasi Ilmiah,2,Dosen 21
+169,SI-VIIA,SENIN,09:40-12:10,R. 2,Proposal dan Seminar Skripsi,3,Dosen 42
+170,SI-VIIA,SENIN,13:00-15:30,R. 5A,Kerja Praktek/Magang Industri/KKN,3,Dosen 43
+171,SI-VIIA,SABTU,08:00-10:30,R. 4B,Decision Support System,3,Dosen 19
+172,SI-VIIA,SABTU,10:30-13:00,Lab. 4,E-Commerce,3,Dosen 44
+173,SI-VIIA,RABU,10:30-13:00,R. 1,Komputasi Awan,3,Dosen 35
+174,SI-VIIB,SENIN,09:40-12:10,R. 2,Proposal dan Seminar Skripsi,3,Dosen 42
+175,SI-VIIB,SABTU,08:00-10:30,R. 1,Decision Support System,3,Dosen 19
+176,SI-VIIB,SABTU,10:30-13:00,R. 4B,E-Commerce,3,Dosen 44
+177,SI-VIIB,RABU,10:30-13:00,R. 5A,Komputasi Awan,3,Dosen 35
+178,SI-VIIB,RABU,13:00-14:40,R. 6A,Kontrol & ...,2,Dosen 45
